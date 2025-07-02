@@ -57,4 +57,7 @@ This layout serves as a simple entry screen or a UI prototype for practicing:
 <string name="click_here">Click Here</string>
 <string name="todo">TODO</string>
 
+🙌 Acknowledgements
+Built with Android Studio for learning purposes.
+
 
